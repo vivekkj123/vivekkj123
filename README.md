@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vivek K J</h1>
-<h3 align="center">A ambitious Web developer and a Programmer from India</h3>
+<h3 align="center">A ambitious Web developer and Programmer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekkj123&label=Profile%20views&color=0e75b6&style=flat" alt="vivekkj123" /> </p>
 
@@ -7,6 +7,7 @@
 
 - 🌱 I’m currently learning **Redux and Vuejs**
 
+- 🌍 Personal Website [www.vivekkj.me](https://www.vivekkj.me)
 - 👨‍💻 All of my projects are available at [https://projects.vivekkj.me](https://projects.vivekkj.me)
 
 - 💬 Ask me about **react, python, and c++**
@@ -15,6 +16,8 @@
 
 - ⚡ Fun fact **My age is just 16, age not matters 😂**
 
+- 🖱️ Hobby **Contributing to Opensource**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/vivekkj123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="vivekkj123" height="30" width="40" /></a>
@@ -22,6 +25,7 @@
 <a href="https://linkedin.com/in/iamvivekkj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="iamvivekkj" height="30" width="40" /></a>
 <a href="https://fb.com/iamvivekkj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="iamvivekkj" height="30" width="40" /></a>
 <a href="https://instagram.com/iamvivekkj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="iamvivekkj" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
