@@ -1,39 +1,21 @@
-<h1 align="center">Hi 👋, I'm Vivek K J</h1>
-<h3 align="center">A ambitious Web developer and Programmer from India</h3>
+### Hi there 👋, I'm VIVEK K J
+#### A ambitious Web developer and a Programmer from India
+I am Vivek K J, From Kodakara, Thrissur, Kerala. I am a self-taught web developer and a programmer who consider myself as a free software enthusiast. I always believe and supports FOSS projects because of their freedom and reliability. I am a GNU/Linux user and believes in Free Software freedoms and free software principles. I've contributed to many open-source projects like Wikipedia, Debian, SMC, etc. I generally use MERN stack for web applications.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekkj123&label=Profile%20views&color=0e75b6&style=flat" alt="vivekkj123" /> </p>
+- 🔭 I’m currently working on so many things 
+- 🌱 I’m currently learning Redux and VueJS 
+- 💬 Ask me about Javascript, Python, C++ 
+- 📫 How to reach me: vivekkj2004@gmail.com 
+- 😄 Pronouns: He/Him 
+- ⚡ Fun fact: My age is just 16, age not matters 😂 
 
-<p align="left"> <a href="https://twitter.com/iamvivekkj" target="blank"><img src="https://img.shields.io/twitter/follow/iamvivekkj?logo=twitter&style=for-the-badge" alt="iamvivekkj" /></a> </p>
 
-- 🌱 I’m currently learning **Redux and Vuejs**
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/vivekkj123)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/iamvivekkj)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/iamvivekkj/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/iamvivekkj)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](www.vivekkj.me)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/diaspora.svg' alt='diaspora' height='40'>](https://diasp.in/people/c4e6c5c034b60139369b28a1590f75bc)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gitlab.svg' alt='gitlab' height='40'>](gitlab.com/vivekkj)  
 
-- 🌍 Personal Website [www.vivekkj.me](https://www.vivekkj.me)
-- 👨‍💻 All of my projects are available at [https://projects.vivekkj.me](https://projects.vivekkj.me)
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
-- 💬 Ask me about **react, python, and c++**
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=vivekkj123&show_icons=true)  
 
-- 📫 How to reach me **vivekkj2004@gmail.com**
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=vivekkj123)  
 
-- ⚡ Fun fact **My age is just 16, age not matters 😂**
-
-- 🖱️ Hobby **Contributing to Opensource**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/vivekkj123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="vivekkj123" height="30" width="40" /></a>
-<a href="https://twitter.com/iamvivekkj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="iamvivekkj" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/iamvivekkj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="iamvivekkj" height="30" width="40" /></a>
-<a href="https://fb.com/iamvivekkj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="iamvivekkj" height="30" width="40" /></a>
-<a href="https://instagram.com/iamvivekkj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="iamvivekkj" height="30" width="40" /></a>
-
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vivekkj123&show_icons=true&theme=dark&locale=en&layout=compact" alt="vivekkj123" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vivekkj123&show_icons=true&theme=merko&locale=en" alt="vivekkj123" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivekkj123&theme=dark" alt="vivekkj123" /></p>
-
+![Profile views](https://gpvc.arturio.dev/vivekkj123)  
