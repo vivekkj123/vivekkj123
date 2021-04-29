@@ -7,7 +7,7 @@ I am Vivek K J, From Kodakara, Thrissur, Kerala. I am a self-taught web develope
 - 💬 Ask me about Javascript, Python, C++ 
 - 📫 How to reach me: vivekkj2004@gmail.com 
 - 😄 Pronouns: He/Him 
-- ⚡ Fun fact: My age is just 16, age not matters 😂 
+- ⚡ Fun fact: My age is just 17, age not matters 😂 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/vivekkj123)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/iamvivekkj)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/iamvivekkj/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/iamvivekkj)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.vivekkj.me)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/diaspora.svg' alt='diaspora' height='40'>](https://diasp.in/people/c4e6c5c034b60139369b28a1590f75bc)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gitlab.svg' alt='gitlab' height='40'>](https://www.gitlab.com/vivekkj)  
