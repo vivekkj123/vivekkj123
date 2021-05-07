@@ -63,8 +63,4 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=vivekkj123)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vivekkj123&repo=amazon-clone-frontend)](https://github.com/vivekkj123/amazon-clone-frontend)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vivekkj123&repo=amazon-clone-backend)](https://github.com/vivekkj123/amazon-clone-backend)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vivekkj123&repo=twitter-clone-react)](https://github.com/vivekkj123/twitter-clone-react)
-
 ![Profile views](https://gpvc.arturio.dev/vivekkj123)
