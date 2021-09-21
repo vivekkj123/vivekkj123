@@ -46,7 +46,7 @@ I am Vivek K J, From Kodakara, Thrissur, Kerala. I am a self-taught web develope
 ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white)
 ## My 🐍 graph
-![Snake animation](https://github.com/karthik558/karthik558/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/vivekkj123/vivekkj123/blob/output/github-contribution-grid-snake.svg)
 ## Badges 📛
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a>
