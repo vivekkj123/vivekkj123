@@ -7,8 +7,8 @@
 I am Vivek K J, From Kodakara, Thrissur, Kerala. I am a self-taught web developer and a programmer who consider myself as a free software enthusiast. I always believe and supports FOSS projects because of their freedom and reliability. I am a GNU/Linux user and believes in Free Software freedoms and free software principles. I've contributed to many open-source projects like Wikipedia, Debian, SMC, etc. I generally use MERN stack for web applications.
 
 - 🔭 I’m currently working on so many things
-- 🌱 I’m currently learning Redux and VueJS
-- 💬 Ask me about ReactJs, Firebase, Javascript, Python
+- 🌱 I’m currently learning VueJs and Flutter
+- 💬 Ask me about ReactJs, React Native, Firebase, Javascript, Python, GNU/Linux
 - 📫 How to reach me: @iamvivekkj on Telegram
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My age is just 17, age not matters 😂
