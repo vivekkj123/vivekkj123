@@ -1,22 +1,25 @@
 # Hi there 👋, I'm VIVEK K J
-<!-- 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Goblin+One&color=00FF00&width=600&lines=I'm+a+Full-Stack+Web+Developer;I'm++a+Web+Designer;I'm+a+Opensource+Contributor;I'm+a+Programmer)](https://git.io/typing-svg) -->
-[![Hey, I'm Vivek K J ](https://pimp-my-readme.webapp.io/pimp-my-readme/sliding-text?emojis=1f468-200d-1f4bb&text=Hey%252C%2520I%27m%2520Vivek%2520K%2520J%2520)](https://pimp-my-readme.webapp.io)
-[![Vivek K J, Full Stack Web Developer | Open source Contributor](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=Full%20Stack%20Web%20Developer%20%7C%20Open%20source%20Contributor&title=Vivek%20K%20J)](https://vivekkj.com)
+[![Hey, I'm Vivek K J ](https://pimp-my-readme.herokuapp.com/pimp-my-readme/sliding-text?emojis=1f468-200d-1f4bb&text=Hey%252C%2520I%27m%2520Vivek%2520K%2520J%2520)](https://pimp-my-readme.herokuapp.com/)
+[![Vivek K J, Full Stack Web Developer | Open source Contributor](https://pimp-my-readme.herokuapp.com/pimp-my-readme/wavy-banner?subtitle=Full%20Stack%20Web%20Developer%20%7C%20Open%20source%20Contributor&title=Vivek%20K%20J)](https://vivekkj.codes)
 #### A ambitious Web developer and a Programmer from India 👩🏻‍💻 🇮🇳
 
 I am Vivek K J, From Kodakara, Thrissur, Kerala. I am a self-taught web developer and a programmer who consider myself as a free software enthusiast. I always believe and supports FOSS projects because of their freedom and reliability. I am a GNU/Linux user and believes in Free Software freedoms and free software principles. I've contributed to many open-source projects like Wikipedia, Debian, SMC, etc. I generally use MERN stack for web applications.
 
 - 🔭 I’m currently working on so many things
-- 🌱 I’m currently learning VueJS and Flutter
+- 🌱 I’m currently mastering VueJS and React Native
 - 💬 Ask me about ReactJs, React Native, Firebase,Javascript, Python, GNU/Linux
-- 📫 How to reach me: @iamvivekkj on Telegram or mail @ vivekkj2004@gmail.com
+- 📫 How to reach me: @iamvivekkj on Telegram or mail @ contact@vivekkj.codes
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: My age is just 17, age not matters 😂
+- ⚡ Fun fact: The Firefox logo isn't a fox :)
 
 ## Connect with Me 🔗
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/vivekkj123) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/iamvivekkj) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/iamvivekkj/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/iamvivekkj) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.vivekkj.com) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/diaspora.svg' alt='diaspora' height='40'>](https://diasp.in/people/c4e6c5c034b60139369b28a1590f75bc) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gitlab.svg' alt='gitlab' height='40'>](https://www.gitlab.com/vivekkj)
+[<img src="https://skillicons.dev/icons?i=github" />](https://github.com/vivekkj123) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/iamvivekkj) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/iamvivekkj/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/iamvivekkj) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.vivekkj.codes) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/diaspora.svg' alt='diaspora' height='40'>](https://diasp.in/people/c4e6c5c034b60139369b28a1590f75bc) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gitlab.svg' alt='gitlab' height='40'>](https://www.gitlab.com/vivekkj)
 
 ## My Skills 🚀
 
