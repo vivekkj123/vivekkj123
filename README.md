@@ -3,7 +3,7 @@
 [![Vivek K J, Full Stack Web Developer | Open source Contributor](https://pimp-my-readme.herokuapp.com/pimp-my-readme/wavy-banner?subtitle=Full%20Stack%20Web%20Developer%20%7C%20Open%20source%20Contributor&title=Vivek%20K%20J)](https://vivekkj.codes)
 #### A ambitious Web developer and a Programmer from India 👩🏻‍💻 🇮🇳
 
-I am Vivek K J, From Kodakara, Thrissur, Kerala. I am a self-taught web developer and a programmer who consider myself as a free software enthusiast. I always believe and supports FOSS projects because of their freedom and reliability. I am a GNU/Linux user and believes in Free Software freedoms and free software principles. I've contributed to many open-source projects like Wikipedia, Debian, SMC, etc. I generally use MERN stack for web applications.
+I am Vivek K J, From Kerala, India. I am a self-taught web developer and a programmer who consider myself as a free software enthusiast. I always believe and supports FOSS projects because of their freedom and reliability. I am a GNU/Linux user and believes in Free Software freedoms and free software principles. I've contributed to many open-source projects like Wikipedia, Debian, SMC, etc. I generally use MERN stack for web applications.
 
 - 🔭 I’m currently working on so many things
 - 🌱 I’m currently mastering VueJS and React Native
@@ -14,12 +14,7 @@ I am Vivek K J, From Kodakara, Thrissur, Kerala. I am a self-taught web develope
 
 ## Connect with Me 🔗
 
-[<img src="https://skillicons.dev/icons?i=github" />](https://github.com/vivekkj123) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/iamvivekkj) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/iamvivekkj/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/iamvivekkj) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.vivekkj.codes) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/diaspora.svg' alt='diaspora' height='40'>](https://diasp.in/people/c4e6c5c034b60139369b28a1590f75bc) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gitlab.svg' alt='gitlab' height='40'>](https://www.gitlab.com/vivekkj)
+[<img src="assets/github.png" height='40'/>](https://github.com/vivekkj123) [<img src='assets/linkedin.png' alt='facebook' height='40'>](https://www.linkedin.com/in/iamvivekkj) [<img src='assets/facebook.png' alt='facebook' height='40'>](https://www.facebook.com/iamvivekkj)  [<img src='assets/instagram.png' alt='instagram' height='40'>](https://www.instagram.com/iamvivekkj/)  [<img src='assets/twitter.png' alt='twitter' height='40'>](https://twitter.com/iamvivekkj)  [<img src='assets/website.png' alt='website' height='40'>](https://www.vivekkj.codes)  [<img src='assets/diaspora.png' alt='diaspora' height='40'>](https://diasp.in/people/c4e6c5c034b60139369b28a1590f75bc)  [<img src='assets/gitlab.png' alt='gitlab' height='40'>](https://www.gitlab.com/vivekkj)
 
 ## My Skills 🚀
 
@@ -56,7 +51,7 @@ I am Vivek K J, From Kodakara, Thrissur, Kerala. I am a self-taught web develope
 
 ## Supporting 💵
 
-If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
+If you like what I do, maybe consider buying me a coffee/tea 😇
 
 <a href="https://www.buymeacoffee.com/vivekkj" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
