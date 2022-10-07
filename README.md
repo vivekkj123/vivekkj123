@@ -1,6 +1,6 @@
 # Hi there 👋, I'm VIVEK K J
-[![Hey, I'm Vivek K J ](https://pimp-my-readme.herokuapp.com/pimp-my-readme/sliding-text?emojis=1f468-200d-1f4bb&text=Hey%252C%2520I%27m%2520Vivek%2520K%2520J%2520)](https://pimp-my-readme.herokuapp.com/)
-[![Vivek K J, Full Stack Web Developer | Open source Contributor](https://pimp-my-readme.herokuapp.com/pimp-my-readme/wavy-banner?subtitle=Full%20Stack%20Web%20Developer%20%7C%20Open%20source%20Contributor&title=Vivek%20K%20J)](https://vivekkj.codes)
+[![Hey, I'm Vivek K J ](https://pimp-my-readme-next.vercel.app/api/sliding-text?emojis=1f468-200d-1f4bb&text=Hey,%20I%27m%20Vivek%20K%20J)](https://vivekkj.codes/)
+[![Vivek K J, Full Stack Web Developer | Open source Contributor](https://pimp-my-readme-next.vercel.app/api/wavy-banner?subtitle=Full%20Stack%20Web%20Developer%20%7C%20Open%20source%20Contributor&title=Vivek%20K%20J)](https://vivekkj.codes)
 #### A ambitious Web developer and a Programmer from India 👩🏻‍💻 🇮🇳
 
 I am Vivek K J, From Kerala, India. I am a self-taught web developer and a programmer who consider myself as a free software enthusiast. I always believe and supports FOSS projects because of their freedom and reliability. I am a GNU/Linux user and believes in Free Software freedoms and free software principles. I've contributed to many open-source projects like Wikipedia, Debian, SMC, etc. I generally use MERN stack for web applications.
