@@ -6,8 +6,8 @@
 I am Vivek K J, From Kerala, India. I am a self-taught web developer and a programmer who consider myself as a free software enthusiast. I always believe and supports FOSS projects because of their freedom and reliability. I am a GNU/Linux user and believes in Free Software freedoms and free software principles. I've contributed to many open-source projects like Wikipedia, Debian, SMC, etc. I generally use MERN stack for web applications.
 
 - 🔭 I’m currently working on so many things
-- 🌱 I’m currently mastering VueJS and React Native
-- 💬 Ask me about ReactJs, React Native, Firebase,Javascript, Python, GNU/Linux
+- 🌱 I’m currently mastering Vue.js and React Native
+- 💬 Ask me about ReactJS, React Native, Firebase,Javascript, Python, GNU/Linux
 - 📫 How to reach me: @iamvivekkj on Telegram or mail @ contact@vivekkj.codes
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: The Firefox logo isn't a fox :)
@@ -47,7 +47,7 @@ I am Vivek K J, From Kerala, India. I am a self-taught web developer and a progr
 ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ## Badges 📛
 
@@ -59,7 +59,7 @@ I am Vivek K J, From Kerala, India. I am a self-taught web developer and a progr
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-## Github Stats 
+## GitHub Stats 
 
 ![](https://github-readme-stats.vercel.app/api?username=vivekkj123&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vivekkj123&theme=dark&hide_border=false)<br/>
