@@ -1,14 +1,14 @@
 # Hi there 👋, I'm VIVEK K J
-[![Hey, I'm Vivek K J ](https://pimp-my-readme-next.vercel.app/api/sliding-text?emojis=1f468-200d-1f4bb&text=Hey,%20I%27m%20Vivek%20K%20J)](https://vivekkj.codes/)
-[![Vivek K J, Full Stack Web Developer | Open source Contributor](https://pimp-my-readme-next.vercel.app/api/wavy-banner?subtitle=Full%20Stack%20Web%20Developer%20%7C%20Open%20source%20Contributor&title=Vivek%20K%20J)](https://vivekkj.codes)
-#### A ambitious Web developer and a Programmer from India 👩🏻‍💻 🇮🇳
 
-I am Vivek K J, From Kerala, India. I am a self-taught web developer and a programmer who consider myself as a free software enthusiast. I always believe and supports FOSS projects because of their freedom and reliability. I am a GNU/Linux user and believes in Free Software freedoms and free software principles. I've contributed to many open-source projects like Wikipedia, Debian, SMC, etc. I generally use MERN stack for web applications.
+![](/Linkedin%20Banner.png)
+#### An ambitious Software Developer from India 👩🏻‍💻 🇮🇳
+
+I am Vivek K J, From Kerala, India. I am a self-taught web developer and a programmer who consider myself as a free software enthusiast. I always believe and supports FOSS projects because of their freedom and reliability. I am a GNU/Linux user and believes in Free Software freedoms and free software principles. I've contributed to many open-source projects like Wikipedia, Debian, SMC, etc.
 
 - 🔭 I’m currently working on so many things
 - 🌱 I’m currently mastering Vue.js and React Native
 - 💬 Ask me about ReactJS, React Native, Firebase,Javascript, Python, GNU/Linux
-- 📫 How to reach me: @iamvivekkj on Telegram or mail @ contact@vivekkj.codes
+- 📫 How to reach me: @iamvivekkj on Telegram or mail me at contact@vivekkj.in
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: The Firefox logo isn't a fox :)
 
@@ -49,9 +49,7 @@ I am Vivek K J, From Kerala, India. I am a self-taught web developer and a progr
 ![](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-## Badges 📛
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a>
 
 ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/vivekkj) 
@@ -64,4 +62,4 @@ I am Vivek K J, From Kerala, India. I am a self-taught web developer and a progr
 ![](https://github-readme-stats.vercel.app/api?username=vivekkj123&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vivekkj123&theme=dark&hide_border=false)<br/>
 
-![Profile views](https://gpvc.arturio.dev/vivekkj123)
+![Profile views](https://komarev.com/ghpvc/?username=vivekkj123&color=FAC151)
